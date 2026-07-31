@@ -5,7 +5,7 @@
 %global crate slog-term
 
 Name:           rust-%{crate}
-Version:        2.5.0
+Version:        2.9.2
 Release:        1%{?dist}
 Summary:        Unix terminal drain and formatter for slog-rs
 
